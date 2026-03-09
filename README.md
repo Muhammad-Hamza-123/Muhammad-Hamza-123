@@ -78,7 +78,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hamza-123&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🏆 GitHub Trophies
-##  ![](https://github-profile-trophy.vercel.app/?username=Muhammad-Hamza-123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+ ![](https://github-profile-trophy.vercel.app/?username=Muhammad-Hamza-123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 
 ## 🐍 Contribution Snake
