@@ -83,11 +83,7 @@
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Hamza-123/Muhammad-Hamza-123/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Hamza-123/Muhammad-Hamza-123/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Muhammad-Hamza-123/Muhammad-Hamza-123/output/github-contribution-grid-snake.svg">
-</picture>
+![snake](https://github.com/Muhammad-Hamza-123/Muhammad-Hamza-123/blob/output/github-contribution-grid-snake.svg)
 
 ## 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Hamza-123&theme=tokyo-night)
