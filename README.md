@@ -6,7 +6,7 @@
 
 💻 I enjoy transforming research ideas into production-ready applications—from LLM-powered automation and AI-driven web platforms to computer vision systems, intelligent chatbots, and embedded hardware-software solutions.
 
-🌐 **Portfolio:** https://synapse-trio.web.app/
+🌐 **Portfolio:** https://synapse-trio.web.app/hamza
 
 - 🔭 **Currently building:** AI-powered automation platforms, intelligent web applications, and IoT-based smart health monitoring systems.
 - 🧠 **Currently learning:** Large Language Models (LLMs), Natural Language Processing (NLP), AI Agents, Retrieval-Augmented Generation (RAG), and scalable system design.
