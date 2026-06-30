@@ -1,7 +1,38 @@
-# 💫 About Me:
-### Hi there 👋 I'm Muhammad Hamza<br><br>🎓 I'm a **Computer Engineering student (final semester)** and a passionate **Full-Stack Developer** who enjoys building intelligent and useful applications.<br><br>💻 I love creating **web applications, AI-powered tools, and real-world problem-solving software**.<br><br>🌐 Portfolio: https://synapse-trio.web.app/<br><br>* 🔭 I’m currently working on **AI-based and full-stack web applications**<br>* 👯 I’m looking to collaborate on **AI projects, web applications, and open-source tools**<br>* 🤝 I’m looking for help with **improving AI models and scalable application architecture**<br>* 🌱 I’m currently learning **advanced AI development and system design**<br>* 💬 Ask me about **React, Node.js, AI projects, and full-stack development**<br>* ⚡ Fun fact: **I enjoy turning complex ideas into real working applications.**<br>
+# 💫 About Me
 
+### Hi there 👋 I'm Muhammad Hamza
 
+🎓 **Computer Engineer** | **Full-Stack AI Developer** passionate about building intelligent software that combines Artificial Intelligence, Machine Learning, Full-Stack Development, and IoT to solve real-world problems.
+
+💻 I enjoy transforming research ideas into production-ready applications—from LLM-powered automation and AI-driven web platforms to computer vision systems, intelligent chatbots, and embedded hardware-software solutions.
+
+🌐 **Portfolio:** https://synapse-trio.web.app/
+
+- 🔭 **Currently building:** AI-powered automation platforms, intelligent web applications, and IoT-based smart health monitoring systems.
+- 🧠 **Currently learning:** Large Language Models (LLMs), Natural Language Processing (NLP), AI Agents, Retrieval-Augmented Generation (RAG), and scalable system design.
+- 💼 **Experience:** Software Engineering Intern (Rust & 3D Modeling) with hands-on experience developing production software and award-winning autonomous robotics projects.
+- 🤝 **Open to collaborate on:** AI, Machine Learning, NLP, Computer Vision, Full-Stack Development, IoT, and Open Source.
+- 💬 **Ask me about:** React, Node.js, Express, Python, AI, n8n Automation, Raspberry Pi, Rust, Firebase, and scalable full-stack architectures.
+- ⚡ **Fun fact:** I love connecting the digital and physical worlds—from React applications and AI models to embedded systems, robotics, and FPGA development.
+
+---
+
+## 🚀 Featured Projects
+
+> Most of my professional, enterprise, and academic projects are private or research-based. Here's a high-level overview of some of the core systems I've designed and built.
+
+### 🩺 IoT Smart Health Monitoring System
+Developed an end-to-end AI-driven respiratory monitoring system using **RF Sensing, Raspberry Pi 5, USRP, Machine Learning**, and an **LLM-based clinical decision agent** capable of triggering automated alerts and actions through structured JSON function calling based on predefined clinical rules.
+
+### 🤖 AI-Powered ATS Resume Optimizer
+Built an AI-driven resume optimization platform using **n8n, Groq API, OpenAI APIs, AWS, and automated HTML-to-PDF generation** to produce pixel-perfect, ATS-friendly resumes through intelligent workflow automation.
+
+### 💬 NovaTalk – Real-Time Communication Platform
+Developed a modern full-stack messaging application using **React, Express.js, Firebase Firestore, Socket.IO, and Google Authentication**, supporting seamless real-time messaging and scalable communication.
+
+### 🛠️ Robotics & Embedded Systems
+Engineered award-winning autonomous robots, FPGA-based image processing modules, and embedded solutions using **Arduino, Raspberry Pi, Verilog, and LabVIEW**, seamlessly combining physical hardware with intelligent software.
+---
 ## 🌐 Socials:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://synapse-trio.web.app/)
