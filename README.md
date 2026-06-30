@@ -31,7 +31,10 @@ Built an AI-driven resume optimization platform using **n8n, Groq API, OpenAI AP
 Developed a modern full-stack messaging application using **React, Express.js, Firebase Firestore, Socket.IO, and Google Authentication**, supporting seamless real-time messaging and scalable communication.
 
 ### 🛠️ Robotics & Embedded Systems
-Engineered award-winning autonomous robots, FPGA-based image processing modules, and embedded solutions using **Arduino, Raspberry Pi, Verilog, and LabVIEW**, seamlessly combining physical hardware with intelligent software.
+Engineered award-winning autonomous robots (Sumo & Fire-extinguisher). Additionally developed FPGA-based image processing modules and embedded solutions using **Arduino, Raspberry Pi, Verilog, and LabVIEW** to seamlessly combine physical hardware with intelligent software.
+
+
+
 ---
 ## 🌐 Socials:
 
