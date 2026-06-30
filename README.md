@@ -38,7 +38,7 @@ Engineered award-winning autonomous robots (Sumo & Fire-extinguisher). Additiona
 ---
 ## 🌐 Socials:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://synapse-trio.web.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://synapse-trio.web.app/hamza)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:muhammadhamza1q@gmail.com)
 # 💻 Tech Stack
 
